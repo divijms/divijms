@@ -1,5 +1,4 @@
-<!--
-**divijms/divijms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **divijms/divijms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hey there👋, Welcome Aboard!
 
@@ -11,9 +10,9 @@
 
 </br>
 
-- 🔭 I’m currently working on **MERN, NextJS, Pyspark**
-- 🌱 I’m currently learning **Go , AWS , Unreal Engine**
-- 💻 Cybersecurity Enthusiast
+- 🔭 I’m currently working on **PySpark, Docker, NextJs**
+- 🌱 I’m currently learning **Go , AWS , Kafka, Kubernetes**
+- 💻 Data Architecture 
 - 👨‍💻 All of my projects are available at [divijsarkale.netlify.app](https://divijsarkale.netlify.app)
 - 📫 How to reach me **divijsarkale@gmail.com**
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
