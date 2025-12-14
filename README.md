@@ -80,6 +80,14 @@
 
 <br/>
 
+<h3 align="center">🧩 MODULE INVENTORY</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,go,js,ts,git,github,html,css,react,nextjs,redux,redis,aws,gcp,docker,flutter,django,nodejs,express,mysql,mongodb,ubuntu,vscode,tailwind,bootstrap,sass,dart&perline=14" />
+  </a>
+</div>
+<br/>
+
 <h3 align="center">📊 NETWORK TRAFFIC</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divijms&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&icon_color=00f2ea" />
