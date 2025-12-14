@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **PySpark, Docker, NextJs**
 - 🌱 I’m currently learning **Go , AWS , Kafka, Kubernetes**
 - 💻 Data Architecture 
-- 👨‍💻 All of my projects are available at [divijsarkale.netlify.app](https://divijsarkale.netlify.app)
+- 👨‍💻 All of my projects are available at [divijsarkale.netlify.app](https://divijms.vercel.app)
 - 📫 How to reach me **divijsarkale@gmail.com**
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 
@@ -39,11 +39,11 @@
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=divijms07&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="divijms07" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=divijms07&theme=material-palenight&hide_border=false" alt="divijms07" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijms07&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="divijms07" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=divijms&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="divijms" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=divijms&theme=material-palenight&hide_border=false" alt="divijms" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijms&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="divijms" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=divijms07&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=divijms&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
