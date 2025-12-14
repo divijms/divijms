@@ -1,54 +1,92 @@
-<!-- **divijms/divijms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=30&duration=3000&pause=1000&color=E95420&center=true&vCenter=true&width=600&lines=divijms@ubuntu:~$+init_sequence...;Loading+Data+Engineering+Modules...;System+Ready.;Welcome+to+Divij's+Terminal." alt="Typing SVG" />
+</div>
 
-## Hey there👋, Welcome Aboard!
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Its+Divij;Full+Stack+Developer...;Data+Engineer..."/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/109907102/210168393-279d0121-6962-4b8c-b639-5b433362145e.png" width="900px" alt="Terminal Header">
+</div>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="45%" height="277px"  align="right" />
+```bash
+divijms@ubuntu:~$ neofetch --ascii_distro divij
 
-## ⚡🙋‍♂️ About Me
+           .:/++++/::.              divijms@ubuntu
+       ./++++++++++++++/:.          --------------
+     :++++++++++++++++++++:.        OS: Ubuntu 22.04 LTS (Data Engineer Edition)
+   .++++++++++++++++++++++++.       Host: Mumbai, Maharashtra
+  :++++++++++++++++++++++++++:      Kernel: Full Stack Developer
+ .++++++++++++++++++++++++++++.     Uptime: Since Day 1
+ :+++++++++:.    .:+++++++++++:     Shell: zsh 5.8
+.++++++++:          :+++++++++.     Resolution: 1920x1080 (Visionary)
+:++++++++            +++++++++:     DE: GNOME (Creative)
+:++++++++            +++++++++:     WM: PySpark
+:++++++++            +++++++++:     Theme: Dark Mode (Always)
+.++++++++:          :+++++++++.     Icons: Docker, AWS, Kafka, Go
+ :+++++++++:.    .:+++++++++++:     Terminal: VS Code
+ .++++++++++++++++++++++++++++.     CPU: Analytical Thinker @ 100% Capacity
+  :++++++++++++++++++++++++++:      GPU: High-Performance Rendering (Next.js)
+   .++++++++++++++++++++++++.       Memory: 32GB (Always Learning)
+     :++++++++++++++++++++:.
+       ./++++++++++++++/:.
+           .:/++++/::.
 
-</br>
+divijms@ubuntu:~$ cat ./current_objectives.txt
 
-- 🔭 I’m currently working on **PySpark, Docker, NextJs**
-- 🌱 I’m currently learning **Go , AWS , Kafka, Kubernetes**
-- 💻 Data Architecture 
-- 👨‍💻 All of my projects are available at [divijsarkale.netlify.app](https://divijms.vercel.app)
-- 📫 How to reach me **divijsarkale@gmail.com**
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
+> 🔭 Working on: PySpark, Docker, NextJs
+> 🌱 Learning: Go, AWS, Kafka, Kubernetes
+> 👯 Looking to collaborate on: Open Source Projects
+> 💬 Ask me about: Data Architecture & Scalable Systems
 
-<hr>
+divijms@ubuntu:~$ ls -la ./skills/
 
-<h3 align="left">Languages and Tools:</h3>
+drwxr-xr-x  5 divijms  staff  160 Dec 14 18:00 .
+drwxr-xr-x  3 divijms  staff   96 Dec 14 18:00 ..
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,go,js,ts,git,github" />
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,redis,aws,gcp" />
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,flutter,django,nodejs,express,mysql,mongodb" />
-  </a>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,tailwind,bootstrap,sass,dart" />
-  </a>
-</p>
-<br>
+-rwxr-xr-x  1 divijms  staff  Data_Eng    [ PySpark | Kafka | SQL | Airflow ]
+-rwxr-xr-x  1 divijms  staff  Backend     [ Go | Python | Node.js | Django ]
+-rwxr-xr-x  1 divijms  staff  Frontend    [ Next.js | React | Tailwind ]
+-rwxr-xr-x  1 divijms  staff  DevOps      [ Docker | K8s | AWS | Jenkins ]
+-rwxr-xr-x  1 divijms  staff  Mobile      [ Flutter | Dart ]
 
-## Stats
+divijms@ubuntu:~$ tree ./projects -L 2
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=divijms&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="divijms" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=divijms&theme=material-palenight&hide_border=false" alt="divijms" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijms&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="divijms" /></p>
+./projects
+├── 📂 codeCrack
+│   ├── 📝 TypeScript
+│   └── 🚀 Remote Interviewing Platform
+├── 📂 cricPulse
+│   ├── 🐍 Python
+│   └── ⚡ PySpark Structured Streaming & Kafka
+├── 📂 Digital-Wellbeing--ScreenSense
+│   ├── 📱 Dart
+│   └── 📊 Realtime Screen Time Tracker
+└── 📂 CrawlMetrics
+    ├── 🕸️ Python
+    └── 🔍 SEO-Auditing Tool (Lighthouse)
 
-![](https://github-profile-trophy.vercel.app/?username=divijms&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+4 directories, 8 files
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/divijsarkale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divijsarkale" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divijms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divijms" height="30" width="40" /></a>
-<a href="https://instagram.com/divijms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divijms" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/divijms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divijms" height="30" width="40" /></a>
-</p>
+divijms@ubuntu:~$ sudo apt-get install divijms
+
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+
+The following NEW packages will be installed:
+  divijms-engineer divijms-developer divijms-innovator
+
+Do you want to continue? [Y/n] Y
+Get:1 [https://github.com/divijms/divijms](https://github.com/divijms/divijms) 100% [Connected]
+
+divijms@ubuntu:~$ ./connect.sh --socials
+
+Connecting to network...
+  
+  [🔵 LinkedIn]  <a href="[https://linkedin.com/in/divijms](https://linkedin.com/in/divijms)">[linkedin.com/in/divijms](https://linkedin.com/in/divijms)</a> ... Connected (200 OK)
+  [✖️ Twitter ]  <a href="[https://twitter.com/DivijSarkale](https://twitter.com/DivijSarkale)">@DivijSarkale</a> ......... Connected (200 OK)
+  [📷 Instagram] <a href="[https://instagram.com/divijms](https://instagram.com/divijms)">@divijms</a> .............. Connected (200 OK)
+  [🌐 Website ]  <a href="[https://divijms.vercel.app](https://divijms.vercel.app)">divijms.vercel.app</a> ...... Connected (200 OK)
+  [📧 Email   ]  <a href="mailto:divijsarkale@gmail.com">divijsarkale@gmail.com</a> .. Sent
+
+divijms@ubuntu:~$ exit
