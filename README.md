@@ -83,7 +83,7 @@
 <h3 align="center">🧩 MODULE INVENTORY</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,go,js,ts,git,github,html,css,react,nextjs,redux,redis,aws,gcp,docker,flutter,django,nodejs,express,mysql,mongodb,ubuntu,vscode,tailwind,bootstrap,sass,dart&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,go,js,ts,git,github,html,css,react,nextjs,redux,redis,aws,gcp,docker,flutter,django,nodejs,express,mysql,mongodb,ubuntu,vscode,tailwind,bootstrap,dart&perline=7" />
   </a>
 </div>
 <br/>
