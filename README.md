@@ -53,14 +53,14 @@
       </div>
     </td>
     <td width="33%">
-      <h3 align="center">CODECRACK</h3>
+      <h3 align="center">pulseIQ</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/STATUS-ONLINE-success?style=for-the-badge"/>
         <br/><br/>
-        Remote Interviewing Platform built for high-concurrency.
-        <br/><b>Tech:</b> TypeScript, WebSockets.
+        A real-time behavioral intelligence platform
+        <br/><b>Tech:</b> Spark Streaming, Airflow.
         <br/><br/>
-        <a href="https://github.com/divijms/codeCrack">View Source_Code_</a>
+        <a href="https://github.com/divijms/pulseIQ">View Source_Code_</a>
       </div>
     </td>
     <td width="33%">
