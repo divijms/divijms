@@ -13,7 +13,7 @@
     <td align="center" width="50%">
       <h3>📡 PILOT STATUS</h3>
       <p>
-        <b>Role:</b> Data Architect & Full Stack Engineer<br>
+        <b>Role:</b> Data Engineer & Full Stack Engineer<br>
         <b>Base:</b> Mumbai, IN<br>
         <b>Current Objective:</b> Scaling PySpark & Kafka Streams<br>
         <b>Clearance:</b> Top Secret
