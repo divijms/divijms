@@ -57,7 +57,7 @@
       <div align="center">
         <img src="https://img.shields.io/badge/STATUS-ONLINE-success?style=for-the-badge"/>
         <br/><br/>
-        A real-time behavioral intelligence platform
+        Real-time behavioral intelligence platform that ingests high-volume product events, detects anomalies in near real time
         <br/><b>Tech:</b> Spark Streaming, Airflow.
         <br/><br/>
         <a href="https://github.com/divijms/pulseIQ">View Source_Code_</a>
